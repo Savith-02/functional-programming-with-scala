@@ -4,7 +4,6 @@ This repository contains all the practical code I've done for the Functional Pro
 
 ## Structure
 
-The repository is structured by week, with each week's practical work in a separate directory. Each directory contains the Scala files for that week.
+The repository is structured by week, with each week's practical work in a separate directory. 
 
-```bash
-scala filename.scala
+Each directory contains the Scala files for that week.
